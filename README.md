@@ -1,0 +1,5 @@
+- Hi, I’m Nicholas Sidharta
+- I’m interested in Web Development
+- I’m currently learning Machine learning and AI
+- I’m looking to collaborate on projects
+- Contact: sidharta.nic@gmail.com
