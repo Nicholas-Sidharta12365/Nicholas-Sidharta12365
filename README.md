@@ -21,7 +21,7 @@
 
 ## Contacts
 <p align="center">
-  <a href="https://www.linkedin.com/in/nicholas-sidharta-693a78192/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="Linkedin Profile" height="55" width="55" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/nicholas-sidharta-693a78192/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="Linkedin Profile" height="55" width="55" /></a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:sidharta.nic@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Linkedin Profile" height="50" width="65" /></a>&nbsp;
 </p>
 
