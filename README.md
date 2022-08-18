@@ -6,6 +6,7 @@
 - 👨‍💻 Currently studying Machine Learning 
 - 💤 Hobbies: Sleeping, Anime, Reading books 
 - ✔️ Fun Fact: I love Astronomy ✨
+- ❓  Personal Portfolio: <a href="https://nicholas-sidharta.herokuapp.com/"> 🌟 Check It Out 🌟 </a>
 ## Technologies/Tools
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/3/35/20190417225046%21The_C_Programming_Language_logo.svg/120px-The_C_Programming_Language_logo.svg.png" alt="C" width="55" height="55"/>
