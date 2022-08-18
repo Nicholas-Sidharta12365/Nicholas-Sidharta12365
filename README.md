@@ -1,6 +1,6 @@
 # 🌌&nbsp;&nbsp; Hey'all I'm Nicholas Sidharta! &nbsp;&nbsp;☄️
-## ✏️ Personal Portofolio : <a href="https://nicholas-sidharta.herokuapp.com/"> 🌟 Check It Out 🌟 </a>
-## 💫 About Me
+## ✏️ << Personal Portofolio >> <a href="https://nicholas-sidharta.herokuapp.com/"> 🌟 nicholas-sidharta.herokuapp.com 🌟 </a>
+### 💫 About Me
 - 📚 I'm an undergraduate student from University of Indonesia pursuing a degree in computer science.
 - 💻 I'm a Full-Stack Developer and hackathon enthusiast 
 - 🐱‍💻 My Favorite Languages are Python and C++ 
