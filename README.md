@@ -23,11 +23,11 @@
   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="Typescript" width="55" height="55"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm_ZBIG28rBo7Y4UtP5Y5yhtefAkkRGa3pgfdCtMIycRRygvMBKpvS&usqp=CAE&s" alt="NEXTJS" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="JAVA" width="55" height="55"/>
+</p>
+<p align="center">
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/0c3822689a6e278609fc9888bf5d89f3bdf9e6ea/icons/file_type_php.svg" alt="PHP" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="Monggodb" width="55" height="55"/>
-</p>
-<p align="center">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="Tensorflow" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="Numpy" width="55" height="55"/>
