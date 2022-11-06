@@ -42,3 +42,6 @@
 
 ## My Github Status
 ![Nicholas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicholas-Sidharta12365&title_color=00FFFF&icon_color=00AE6B&text_color=FFFFFF&bg_color=00000000&show_icons=true)
+
+## Holopins
+[![@nicholas_sidharta's Holopin board](https://holopin.me/nicholas_sidharta)](https://holopin.io/@nicholas_sidharta)
