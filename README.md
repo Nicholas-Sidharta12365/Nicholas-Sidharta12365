@@ -1,4 +1,5 @@
 # 🌌&nbsp;&nbsp; Hey'all I'm Nicholas Sidharta! &nbsp;&nbsp;☄️
+## ✏️ << Personal Portfolio >> <a href="https://nicholas-sidharta.netlify.app/"> 🌟 nicholas-sidharta.netlify.app 🌟 </a>
 ### 💫 About Me
 - 📚 I'm an undergraduate student from University of Indonesia pursuing a degree in computer science.
 - 💻 I'm a Full-Stack Developer and hackathon enthusiast 
