@@ -43,5 +43,8 @@
 ## My Github Status
 [![Nicholas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicholas-Sidharta12365&show_icons=true&theme=algolia)](https://github.com/Nicholas-Sidharta12365)
 
+## Code Wars Status
+![cide wars](https://www.codewars.com/users/Nicholas%20Sidharta/badges/large)
+
 ## Holopins
 [![@nicholas_sidharta's Holopin board](https://holopin.me/nicholas_sidharta)](https://holopin.io/@nicholas_sidharta)
